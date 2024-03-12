@@ -3,7 +3,7 @@
 /*GENERAL*/
 
 body {
-    background: url('../images/bg.jpg') no-repeat right bottom / cover fixed;
+    background: url('..bg.jpg') no-repeat right bottom / cover fixed;
     text-align: center;
     margin: 0;
     padding: 0;
@@ -65,7 +65,7 @@ img {
     height: 100vh;
     position: relative;
     width: 100%;
-    background: url('../images/logo.png') no-repeat right top / 30%;
+    background: url('..logo.png') no-repeat right top / 30%;
     position: absolute;
     top: 2rem;
     right: 2.5rem;
